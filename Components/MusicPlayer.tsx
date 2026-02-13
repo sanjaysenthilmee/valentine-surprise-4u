@@ -72,11 +72,11 @@ export default function MusicPlayer() {
             height={700}
           />
 
-          <p className="text-gray-600 text-lg">
-            From this moment… it’s always you and me 💖
+          <p className="text-slate-700 font-bold text-xl mt-3">
+            கள்ளிப்பால் ஊற்றிக் கொள்ள தவறிய அழகி டி நீ....😅🤗
           </p>
 
-          <p className="text-pink-400">Miss You Da Chello 🤗 🤗 🤗 </p>
+          <p className="text-pink-400 mt-2">Miss You Da Chello 🤗 🤗 🤗 </p>
         </div>
       ) : !isFinished ? (
         <>
